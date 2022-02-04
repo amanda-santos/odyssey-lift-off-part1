@@ -1,5 +1,7 @@
 # Odyssey Lift-off I: Basics
 
+https://user-images.githubusercontent.com/49074930/152616457-a7d1b608-3de2-4267-b276-823e4cf594a8.mp4
+
 Welcome to the companion app of Odyssey Lift-off I! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
 
 You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
